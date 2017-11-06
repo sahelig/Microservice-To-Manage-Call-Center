@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CallcenterimplementationApplication {
+public class CallCenterImplementationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CallcenterimplementationApplication.class, args);
+		SpringApplication.run(CallCenterImplementationApplication.class, args);
 	}
 }
