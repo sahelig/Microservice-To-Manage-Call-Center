@@ -1,6 +1,6 @@
 package com.callcenter.callcenterimplementation;
 
-public class Employee {
+public abstract class Employee {
     protected String id = "";
     protected transient int maxCallsPossible;
     protected transient int maxCallTime;
